@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center"> 
-  <samp>Hey there! I am <b><a href="https://Baskar.com" target="_blank">Jegan K</a></b> 👋</samp>
+  <samp>Hey there! I am <b><a href="https://Baskar.com" target="_blank">Baskar L</a></b> 👋</samp>
 </h2>
 
 <p align="center"> 
