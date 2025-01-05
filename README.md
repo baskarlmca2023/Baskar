@@ -1,19 +1,19 @@
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=JegankarthiMCA&label=Profile%20Views&color=green&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=baskarlmca2023&label=Profile%20Views&color=green&style=flat" alt="Profile Views" />
 </p>
 
 <h2 align="center"> 
-  <samp>Hey there! I am <b><a href="https://jeganjack.com" target="_blank">Jegan K</a></b> 👋</samp>
+  <samp>Hey there! I am <b><a href="https://Baskar.com" target="_blank">Jegan K</a></b> 👋</samp>
 </h2>
 
 <p align="center"> 
-  <samp>🌟 <b>Full Stack Web Application Developer</b> from <b>Coimbatore</b> 🌟</samp>
+  <samp>🌟 <b>Full Stack Web & Mobile Application Develope(MERN)</b> from <b>Coimbatore</b> 🌟</samp>
   <br>
-  👉 <a href="https://www.google.com/search?q=Jegan+Jack" target="_blank">Google Me</a> 👈
+  👉 <a href="https://www.google.com/search?q=Baskar+L" target="_blank">Google Me</a> 👈
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Coding Animation" />
+  <img src="[https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw05uk9eKejl1aav9MfVqgKB&ust=1736144091221000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDqkfX23YoDFQAAAAAdAAAAABBf)" width="300" alt="Coding Animation" />
 </p>
 
 ---
@@ -68,21 +68,21 @@
 
 ### 📊 My GitHub Stats
 <p align="center"> 
-  <a href="https://github.com/JegankarthiMCA">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JegankarthiMCA&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak Stats">
+  <a href="https://github.com/baskarlmca2023">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baskarlmca2023&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak Stats">
   </a>
 </p>
 <p align="center"> 
-  <a href="https://github.com/JegankarthiMCA">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JegankarthiMCA&theme=radical" alt="GitHub Contribution Summary">
+  <a href="https://github.com/baskarlmca2023">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baskarlmca2023&theme=radical" alt="GitHub Contribution Summary">
   </a>
 </p>
 <p align="center"> 
-  <a href="https://github.com/JegankarthiMCA">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JegankarthiMCA&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" alt="GitHub Stats">
+  <a href="https://github.com/baskarlmca2023">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=baskarlmca2023&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" alt="GitHub Stats">
   </a>
-  <a href="https://github.com/JegankarthiMCA">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JegankarthiMCA&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" alt="Top Languages">
+  <a href="https://github.com/baskarlmca2023">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=baskarlmca2023&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" alt="Top Languages">
   </a>
 </p>
 
@@ -90,7 +90,7 @@
 
 ### ⚡ GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JegankarthiMCA&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&title_color=F8D866" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baskarlmca2023&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&title_color=F8D866" alt="GitHub Activity Graph">
 </p>
 
 ---
